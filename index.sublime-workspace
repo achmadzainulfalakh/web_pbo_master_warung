@@ -1,0 +1,237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"s",
+				"style\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"src",
+				"source\tTag"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Agil/Coding/JQuery/1/index.html",
+		"/D/Agil/Coding/Html,Css,Javascript/Dicee Challenge - Starting Files/styles.css",
+		"/D/Agil/Coding/Html,Css,Javascript/eventListenMouse/style.css",
+		"/D/Agil/Coding/Html,Css,Javascript/JQuery/script.js",
+		"/D/Agil/Coding/Html,Css,Javascript/tema/index.html",
+		"/D/Agil/Coding/Html,Css,Javascript/JQuery/index.html",
+		"/D/Agil/Coding/Html,Css,Javascript/tema/styles.css",
+		"/C/xampp/htdocs/animanesia/index.html",
+		"/D/Agil/Coding/Html,Css,Javascript/eventListenMouse/script.js",
+		"/C/xampp/mysql/data/mysql_error.log",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/D/Agil/Coding/Html,Css,Javascript/eventListenMouse/index.html",
+		"/C/xampp/htdocs/web_pbo/angular.html",
+		"/C/xampp/mysql/bin/my.ini",
+		"/C/xampp/phpMyAdmin/config.inc.php",
+		"/C/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/D/Agil/Coding/Html,Css,Javascript/class list/index.html",
+		"/D/Agil/Coding/Html,Css,Javascript/class list/index.js",
+		"/C/xampp/htdocs/prg_web/if_else/value.php",
+		"/D/Agil/Coding/Html,Css,Javascript/Drum kit/Drum Kit Starting Files/index.js",
+		"/D/Agil/Coding/Html,Css,Javascript/Drum kit/Drum Kit Starting Files/index.html",
+		"/C/xampp/htdocs/prg_web/array/index.php",
+		"/C/xampp/htdocs/prg_web/if_else/style.css",
+		"/C/xampp/htdocs/prg_web/if_else/index.php",
+		"/C/xampp/htdocs/prg_web_exp_one/index.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

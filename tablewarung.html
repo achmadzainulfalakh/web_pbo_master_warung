@@ -1,0 +1,21 @@
+<h3>TABLE WARUNG</h3>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>ID WARUNG</th>
+      <th>NAMA WARUNG</th>
+      <th>NAMA PEMILIK</th>
+      <th>ALAMAT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="xgetallwarung in getallwarung">
+      <th><a href="hapuswarung.php?id={{ xgetallwarung.id }}" class="btn btn-danger">Hapus</a></th>
+      <td>{{ xgetallwarung.id }}</td>
+      <td>{{ xgetallwarung.namawarung }}</td>
+      <td>{{ xgetallwarung.namapemilik }}</td>
+      <td>{{ xgetallwarung.alamat }}</td>
+    </tr>
+  </tbody>
+</table>

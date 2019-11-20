@@ -1,0 +1,21 @@
+<H3>TABLE LOKASI</H3>
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>HAPUS</th>
+      <th>ID WARUNG</th>
+      <th>LONGITUDE</th>
+      <th>LOTITUDE</th>
+      <th>ALAMAT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr ng-repeat="xgetalllokasi in getalllokasi">
+      <th><a href="hapuslokasi.php?id={{ xgetalllokasi.idwarung }}" class="btn btn-danger">Hapus</a></th>
+      <td>{{ xgetalllokasi.idwarung }}</td>
+      <td>{{ xgetalllokasi.longitude }}</td>
+      <td>{{ xgetalllokasi.lotitude }}</td>
+      <td>{{ xgetalllokasi.alamat }}</td>
+    </tr>
+  </tbody>
+</table>
